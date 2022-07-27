@@ -56,5 +56,5 @@ while (i <  cantidad_productos || typeof(cantidad_productos) === String) {
         alerta()
     }
     
-    else{console.log("No es un dato valido.")}
+    else{console.log("No existe ese producto")}
 } 
